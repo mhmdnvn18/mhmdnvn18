@@ -74,6 +74,7 @@ I'm **Muhammad Novian** (Anop), a final-year Electrical Engineering student at U
 
 ### 📫 Contact Me
 
-- **GitHub:** [github.com/mhmdnvn18](https://github.com/mhmdnvn18)
-- **LinkedIn:** [linkedin.com/in/muhammadnovian](https://www.linkedin.com/in/mhmdnvn18)
-- **Instagram:** [Instagram.com/@mhmdnvn18](https://www.instagram.com/@mhmdnvn18)
+- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmdnvn18)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadnovian)
+- **Email:** [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novian@example.com)
+- **Support Me:** [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mhmdnvn18)
