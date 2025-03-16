@@ -74,7 +74,5 @@ I'm **Muhammad Novian** (Anop), a final-year Electrical Engineering student at U
 
 ### 📫 Contact Me
 
-- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmdnvn18)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadnovian)
-- **Email:** [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novian@example.com)
-- **Support Me:** [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mhmdnvn18)
+| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmdnvn18) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadnovian) | [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novian@example.com) | [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mhmdnvn18) | [![Lynk](https://img.shields.io/badge/Lynk-000000?style=for-the-badge&logo=lynk&logoColor=white)](https://lynk.id/mhmdnvn18) |
+|---|---|---|---|---|
