@@ -5,7 +5,7 @@ I'm **Muhammad Novian** (Anop), a final-year Electrical Engineering student at U
 ### 🚀 About Me
 - 🔭 I’m currently working on **LoRaWAN communication using ESP32 and ChirpStack**, integrating **InfluxDB** for data processing.
 - 🌱 I’m currently learning **LoRaWAN, ChirpStack, and InfluxDB** for real-time data monitoring.
-- 🛠️ Experienced in **ESP32, Arduino, MPU9250, MAX30100, Pixhawk, u-blox NEO-M8N GPS, Google Apps Script, and Cloudflare Zero Trust**.
+- 🛠️ Experienced in **ESP32, Arduino, MPU9250, MAX30100, Pixhawk, u-blox NEO-M8N GPS & Google Apps Script**.
 - 👯 I’m looking to collaborate on **IoT projects, embedded systems, and real-time data visualization**.
 - 🤔 I’m looking for help with **optimizing ESP32 as a LoRa gateway and data processing in ChirpStack**.
 - 💬 Ask me about **LoRaWAN, ChirpStack, IoT, Arduino, and ESP32**.
