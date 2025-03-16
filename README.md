@@ -9,7 +9,7 @@ I'm **Muhammad Novian** (Anop), a final-year Electrical Engineering student at U
 - 👯 I’m looking to collaborate on **IoT projects, embedded systems, and real-time data visualization**.
 - 🤔 I’m looking for help with **optimizing ESP32 as a LoRa gateway and data processing in ChirpStack**.
 - 💬 Ask me about **LoRaWAN, ChirpStack, IoT, Arduino, and ESP32**.
-- 📫 How to reach me: **mhmdnvn18@gmail.com**
+- 📫 How to reach me: [Instagram](https://www.instagram.com/mhmdnvn18/)
 - ⚡ Fun fact: **I love building and debugging hardware & software integrations!**
 
 ### 📊 My Tech Stack
