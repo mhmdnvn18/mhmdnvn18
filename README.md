@@ -53,17 +53,6 @@ I'm **Muhammad Novian** (Anop), a final-year Electrical Engineering student at U
    - ESP32 + LED Strip RGB 5050: Controlling LED on/off, color, and effects via Google Apps Script.
    - ESP32 + SD Card MP3 Player: Automatically playing all MP3 files in the SD card.
 
-6️⃣ **Cloudflare Tunnel for ChirpStack**  
-   - Using Cloudflare Zero Trust Dashboard to manage access to ChirpStack.
-   - Connecting ChirpStack running on Ubuntu LTS 22.04 to the internet using Cloudflared.
-
-7️⃣ **Custom WhatsApp Bot**  
-   - Building my own version of WhatsApp bot to automate certain tasks.
-
-8️⃣ **Arduino to ESP32 Serial Communication**  
-   - Using RX/TX communication between Arduino Mega 2560 and ESP32.
-   - Using RX:16 and TX:17 pins on Arduino.
-
 ### 🛠️ Technologies & Tools
 
 - **Programming:** Python, C/C++, JavaScript, HTML, CSS
